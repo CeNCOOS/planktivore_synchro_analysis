@@ -1,7 +1,7 @@
 # Do not upload all images
 
-./test_data/pngs/*.png
-./test_data/jpgs/*.jpg
+test_data/pngs/*
+test_data/jpgs/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
