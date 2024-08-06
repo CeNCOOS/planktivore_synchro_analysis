@@ -2,7 +2,7 @@
 
 test_data/pngs/*
 test_data/jpgs/*
-
+test_data/masks/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
